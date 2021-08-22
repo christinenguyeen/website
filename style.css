@@ -1,7 +1,10 @@
 body,html {
 	font-family: courier;
 	color:  #575757;
-	padding: 50px;
+	overflow: hidden;
+	margin: auto;
+	padding: 0;
+	justify-content: center;
 }
 
 h1 {
@@ -43,10 +46,10 @@ h2 {
 
 .container {
 	display: flex; 
-	align-items: flex-start;
-	justify-content: left;
+	align-items: center; 
+	justify-content: center;
 	flex-wrap: wrap;
-	align-content: left;
+	align-content: center;
 }
 
 .row {
