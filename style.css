@@ -1,0 +1,98 @@
+body,html {
+	font-family: courier;
+	color:  #575757;
+	padding: 50px;
+}
+
+h1 {
+	font-family: nobel;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 175%;
+	letter-spacing: 2px;
+	max-width: 100%;
+	color: #575757;
+	margin-top: 15px;
+	margin-bottom: 0px;
+}
+
+h2 {
+	letter-spacing: 0px;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 130%;
+	letter-spacing: 1px;
+	max-width: 100%;
+	color: #575757;
+	line-height: 70px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+#window {
+	background-color: #2a2d34;
+	height: 340px;
+	width: 650px;
+	margin: 30px;
+	margin-top: 20px;
+	margin-left: 4px;
+	padding: 20px;
+	overflow-y:auto;
+	line-height: 22px;
+}
+
+.container {
+	display: flex; 
+	align-items: flex-start;
+	justify-content: left;
+	flex-wrap: wrap;
+	align-content: left;
+}
+
+.row {
+	flex-direction: row;
+}
+
+.column {
+	flex-direction: column;
+}
+
+.text {
+	text-align: left;
+	width: 450px;
+	font-family: nobel;
+}
+
+#profile-img {
+	height: 150px;
+	width: 150px;
+	overflow-y:hidden;
+	margin: 40px 30px 0px 0px;
+	margin-top: 20px;
+	display: block;
+	float: left;
+}
+
+#img-console {
+	width: 100%;
+}
+
+.color1 {
+	color: #c792ea;
+}
+
+.color2 {
+	color: #82aaff;
+}
+
+.color3 {
+	color:  #addb67;
+}
+
+.color4{
+	color: #ffcb8b;
+}
+
+.color5 {
+	color: #7fdbca;
+}
