@@ -88,7 +88,8 @@ h2 {
 	width: 40px;
 	margin-top: 20px;
 	margin-right: 60px;
-	padding-left: 100px;
+	padding-left: 60px;
+	align-content: center;
 }
 
 .color1 {
