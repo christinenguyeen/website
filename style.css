@@ -37,12 +37,12 @@ h2 {
 	height: 340px;
 	width: 550px;
 	margin: 30px;
-	margin-left: 4px;
 	padding: 20px;
 	overflow-y:auto;
 	line-height: 22px;
-	text-align: 20px;
+	text-indent: 15px;
 }
+
 
 .container {
 	display: flex; 
@@ -71,7 +71,7 @@ h2 {
 	width: 150px;
 	overflow-y:hidden;
 	margin: 40px 30px 0px 0px;
-	margin-top: 15px;
+	margin-top: 10px;
 	float: left;
 }
 
