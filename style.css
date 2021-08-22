@@ -5,6 +5,7 @@ body,html {
 	margin: auto;
 	padding: 0;
 	justify-content: center;
+	scroll-behavior: smooth;
 }
 
 h1 {
